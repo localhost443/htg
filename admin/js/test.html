@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jqueryb.js"></script>
+</head>
+<body>
+    <button id='fuck'></button>
+    
+</body>
+</html>
+<script>
+    $('.fuck').
+    // var htgdropshipping_data = {"root_url":"https:\/\/localhost\/htg","nonce":"8597dec611"};
+    $.ajax({
+            beforeSend : (xhr) =>  {
+                xhr.setRequestHeader('X-WP-Nonce', htgdropshipping_data.nonce)
+            },
+            url : htgdropshipping_data.root_url + '/wp-json/htgdropshipping/v1/sync' ,
+            type : 'POST',
+            data: {
+                'hello' : 'Hello World',
+            },
+            success : (res) => {
+                // console.log(res);
+            },
+            error : (res) => {
+                console.log(res);
+                if(res.responseText === 'You have reched your note limit'){
+                    $('.note-limit-message').addClass('active');
+                }
+            }
+        })
+</script>

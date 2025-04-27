@@ -1,0 +1,276 @@
+[{
+    "id": 91916,
+    "name": "Mitone Headphone MITHP402",
+    "slug": "mitone-headphone-mithp402",
+    "permalink": "http: //localhost/htg/product/mitone-headphone-mithp402/",
+    "date_created": "2021-09-15T20:30:44",
+    "date_created_gmt": "2021-09-15T20:30:44",
+    "date_modified": "2021-09-15T20:30:44",
+    "date_modified_gmt": "2021-09-15T20:30:44",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "Mitone Headphone MITHP402 Limegreen/Comfort 17110622/220292154 NEDERLAND karton @ 1 stuk x 1 stuk",
+    "short_description": "karton @ 1 stuk x 1 stuk",
+    "sku": "X-MI-003-04",
+    "price": "14.5",
+    "regular_price": "14.5",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&euro;</span>14.50</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": true,
+    "stock_quantity": 0,
+    "stock_status": "outofstock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "0",
+    "dimensions": {
+        "length": "0",
+        "width": "0",
+        "height": "0"
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [{
+        "id": 2018,
+        "name": "htgProducts",
+        "slug": "htgproducts"
+    }],
+    "tags": [],
+    "images": [],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "brands": [],
+    "_links": {
+        "self": [{
+            "href": "http://localhost/htg/wp-json/wc/v3/products/91916"
+        }],
+        "collection": [{
+            "href": "http://localhost/htg/wp-json/wc/v3/products"
+        }]
+    }
+}, {
+    "id": 91917,
+    "name": "Mitone Headphone MITHP402",
+    "slug": "mitone-headphone-mithp402-2",
+    "permalink": "http://localhost/htg/product/mitone-headphone-mithp402-2/",
+    "date_created": "2021-09-15T20:30:45",
+    "date_created_gmt": "2021-09-15T20:30:45",
+    "date_modified": "2021-09-15T20:30:45",
+    "date_modified_gmt": "2021-09-15T20:30:45",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "Mitone Headphone MITHP402 Grey/Comfort 17110621/220-384778 NEDERLAND karton @ 1 stuk x 1 stuk",
+    "short_description": "karton @ 1 stuk x 1 stuk",
+    "sku": "X-MI-003-03",
+    "price": "14.5",
+    "regular_price": "14.5",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&euro;</span>14.50</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": true,
+    "stock_quantity": 0,
+    "stock_status": "outofstock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "0",
+    "dimensions": {
+        "length": "0",
+        "width": "0",
+        "height": "0"
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0",
+    "rating_count": 0,
+    "related_ids": [91916],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [{
+        "id": 2018,
+        "name": "htgProducts",
+        "slug": "htgproducts"
+    }],
+    "tags": [],
+    "images": [],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "brands": [],
+    "_links": {
+        "self": [{
+            "href": "http://localhost/htg/wp-json/wc/v3/products/91917"
+        }],
+        "collection": [{
+            "href": "http://localhost/htg/wp-json/wc/v3/products"
+        }]
+    }
+}],
+
+
+[{
+    "id": 0,
+    "error": {
+        "code": "product_invalid_sku",
+        "message": "Invalid or duplicated SKU.",
+        "data": {
+            "status": 400,
+            "resource_id": 91916
+        }
+    }
+}, {
+    "id": 0,
+    "error": {
+        "code": "product_invalid_sku",
+        "message": "Invalid or duplicated SKU.",
+        "data": {
+            "status": 400,
+            "resource_id": 91917
+        }
+    }
+}]
+
+
+array(1) {
+    [338] => object(WC_Order_Item_Product) #3494 (11) { ["extra_data":protected]= > array(9) {
+        ["product_id"] => int(0)["variation_id"] => int(0)["quantity"] => int(1)["tax_class"] => string(0)
+        "" ["subtotal"] => int(0)["subtotal_tax"] => int(0)["total"] => int(0)["total_tax"] => int(0)["taxes"] => array(2) {
+            ["subtotal"] => array(0) {} ["total"] => array(0) {}
+        }
+    } ["data": protected] => array(11) {
+        ["order_id"] => int(92670)["name"] => string(43)
+        "Dr. Brandt Do Not Age Magnetight Age-Defier" ["product_id"] => int(92637)["variation_id"] => int(0)["quantity"] => int(1)["tax_class"] => string(0)
+        "" ["subtotal"] => string(9)
+        "42.078512" ["subtotal_tax"] => string(4)
+        "8.84" ["total"] => string(9)
+        "42.078512" ["total_tax"] => string(4)
+        "8.84" ["taxes"] => array(2) {
+            ["total"] => array(1) {
+                [1] => string(8)
+                "8.836488"
+            } ["subtotal"] => array(1) {
+                [1] => string(8)
+                "8.836488"
+            }
+        }
+    } ["cache_group": protected] => string(11)
+    "order-items" ["meta_type": protected] => string(10)
+    "order_item" ["object_type": protected] => string(10)
+    "order_item" ["id": protected] => int(338)["changes": protected] => array(0) {} ["object_read": protected] => bool(true)["default_data": protected] => array(11) {
+        ["order_id"] => int(0)["name"] => string(0)
+        "" ["product_id"] => int(0)["variation_id"] => int(0)["quantity"] => int(1)["tax_class"] => string(0)
+        "" ["subtotal"] => int(0)["subtotal_tax"] => int(0)["total"] => int(0)["total_tax"] => int(0)["taxes"] => array(2) {
+            ["subtotal"] => array(0) {} ["total"] => array(0) {}
+        }
+    } ["data_store": protected] => object(WC_Data_Store) #3495 (4) { ["instance":"WC_Data_Store":private]= > object(WC_Order_Item_Product_Data_Store) #3496 (4) { ["internal_meta_keys":protected]= > array(20) {
+        [0] => string(9)
+        "_order_id" [1] => string(5)
+        "_name" [2] => string(11)
+        "_product_id" [3] => string(13)
+        "_variation_id" [4] => string(9)
+        "_quantity" [5] => string(10)
+        "_tax_class" [6] => string(9)
+        "_subtotal" [7] => string(13)
+        "_subtotal_tax" [8] => string(6)
+        "_total" [9] => string(10)
+        "_total_tax" [10] => string(6)
+        "_taxes" [11] => string(11)
+        "_product_id" [12] => string(13)
+        "_variation_id" [13] => string(4)
+        "_qty" [14] => string(10)
+        "_tax_class" [15] => string(14)
+        "_line_subtotal" [16] => string(18)
+        "_line_subtotal_tax" [17] => string(11)
+        "_line_total" [18] => string(9)
+        "_line_tax" [19] => string(14)
+        "_line_tax_data"
+    } ["meta_type": protected] => string(10)
+    "order_item" ["object_id_field_for_meta": protected] => string(13)
+    "order_item_id" ["must_exist_meta_keys": protected] => array(0) {}
+} ["stores": "WC_Data_Store": private] => array(20) {
+    ["coupon"] => string(24)
+    "WC_Coupon_Data_Store_CPT" ["customer"] => string(22)
+    "WC_Customer_Data_Store" ["customer-download"] => string(31)
+    "WC_Customer_Download_Data_Store" ["customer-download-log"] => string(35)
+    "WC_Customer_Download_Log_Data_Store" ["customer-session"] => string(30)
+    "WC_Customer_Data_Store_Session" ["order"] => string(23)
+    "WC_Order_Data_Store_CPT" ["order-refund"] => string(30)
+    "WC_Order_Refund_Data_Store_CPT" ["order-item"] => string(24)
+    "WC_Order_Item_Data_Store" ["order-item-coupon"] => string(31)
+    "WC_Order_Item_Coupon_Data_Store" ["order-item-fee"] => string(28)
+    "WC_Order_Item_Fee_Data_Store" ["order-item-product"] => string(32)
+    "WC_Order_Item_Product_Data_Store" ["order-item-shipping"] => string(33)
+    "WC_Order_Item_Shipping_Data_Store" ["order-item-tax"] => string(28)
+    "WC_Order_Item_Tax_Data_Store" ["payment-token"] => string(27)
+    "WC_Payment_Token_Data_Store" ["product"] => string(25)
+    "WC_Product_Data_Store_CPT" ["product-grouped"] => string(33)
+    "WC_Product_Grouped_Data_Store_CPT" ["product-variable"] => string(34)
+    "WC_Product_Variable_Data_Store_CPT" ["product-variation"] => string(35)
+    "WC_Product_Variation_Data_Store_CPT" ["shipping-zone"] => string(27)
+    "WC_Shipping_Zone_Data_Store" ["webhook"] => string(21)
+    "WC_Webhook_Data_Store"
+} ["current_class_name": "WC_Data_Store": private] => string(32)
+"WC_Order_Item_Product_Data_Store" ["object_type": "WC_Data_Store": private] => string(18)
+"order-item-product"
+} ["meta_data": protected] => array(0) {}
+}
+}
